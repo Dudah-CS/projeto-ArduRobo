@@ -3,7 +3,7 @@
 
 Esse código tem como finalidade fazer um robô que consiga seguir a trajetória de uma linha de cor branca ou preta em um fundo de cor oposta à da linha.
 
-> Para as disciplinas **Linguagem de programação** e **Projeto Integrado** da Faculdade Anhanguera - Marte
+ Para as disciplinas **Linguagem de programação** e **Projeto Integrado** da Faculdade Anhanguera - Marte
 
 ## 👤 Autores
 - [Eduarda Santos](www.linkedin.com/in/eduarda-santos-4b6a2b288)
